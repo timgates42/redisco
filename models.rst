@@ -35,7 +35,7 @@ Redisco allows you to store objects in Redis_. Redisco can easily manage object 
 
 Model
 -----------------------------------
-The ``Model`` class is the class that will contain your object. It upports many different type of attributes and support custom object validation to ensure data integrity when saving.
+The ``Model`` class is the class that will contain your object. It supports many different type of attributes and support custom object validation to ensure data integrity when saving.
 
 .. autoclass:: redisco.models.Model
    :members:
